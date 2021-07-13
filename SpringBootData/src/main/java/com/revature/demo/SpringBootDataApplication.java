@@ -23,4 +23,5 @@ public class SpringBootDataApplication extends SpringBootServletInitializer {
         return builder.sources(SpringBootDataApplication.class);
     }
 
+	// Comment to test automated continuos integration
 }
