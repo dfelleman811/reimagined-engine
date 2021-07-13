@@ -24,5 +24,5 @@ public class SpringBootDataApplication extends SpringBootServletInitializer {
     }
 
 	// Comment to test automated continuous integration with github webhook
-	
+	//
 }
